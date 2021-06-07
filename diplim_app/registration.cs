@@ -17,6 +17,7 @@ public partial class registration : Form
             InitializeComponent();
            
         }
+
         private void Form2_FormClosed(object sender, FormClosedEventArgs e)
         {
             
